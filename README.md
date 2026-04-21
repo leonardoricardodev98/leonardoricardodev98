@@ -2,6 +2,8 @@
 
 🚀 **Engenheiro de Software | Java JavaScript**  
 
+---
+
 🗣️ Idiomas: Inglês Nível avançado - Alemão Nível Básico
 
 ---
