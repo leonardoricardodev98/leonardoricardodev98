@@ -1,9 +1,8 @@
 # Olá 👋, Eu sou o Leonardo
 
 🚀 **Engenheiro de Software | Java JavaScript**  
-🇧🇷 Brazil
 
-🗣️ Idiomas: INGLÊS AVANÇADO - ALEMÃO BÁSICO
+🗣️ Idiomas: Inglês Nível avançado - Alemão Nível Básico
 
 ---
 
