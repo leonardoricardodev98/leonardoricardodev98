@@ -3,7 +3,7 @@
 🚀 **Engenheiro de Software | Java JavaScript**  
 🇧🇷 Brazil
 
-🗣️ Idiomas: 🇧🇷 🇺🇸 🇪🇸 🇩🇪
+🗣️ Idiomas: INGLÊS AVANÇADO - ALEMÃO BÁSICO
 
 ---
 
