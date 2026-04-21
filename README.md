@@ -1,7 +1,4 @@
-# Olá 👋, Eu sou o Leonardo
-
-🚀 **Engenheiro de Software | Java JavaScript**  
-
+# Olá 👋, Meu nome é Leonardo, sou um Engenheiro de Software 🚀
 ---
 
 🗣️ Idiomas: Inglês Nível avançado - Alemão Nível Básico
