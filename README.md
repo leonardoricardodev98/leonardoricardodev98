@@ -3,7 +3,7 @@
 🚀 **Engenheiro de Software | Java JavaScript**  
 🇧🇷 Brazil
 
-🗣️ Idiomas: 🇧🇷, 🇺🇸, 🇪🇸, 🇩🇪
+🗣️ Idiomas: 🇧🇷 🇺🇸 🇪🇸 🇩🇪
 
 ---
 
@@ -39,7 +39,3 @@
 </p>
 
 ---
-
-## 🚀 Philosophy
-
-> _"Código limpo, mente focada e objetivos grandes."
