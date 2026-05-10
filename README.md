@@ -36,4 +36,3 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoricardodev98&layout=compact&theme=tokyonight" />
 </p>
 
----
