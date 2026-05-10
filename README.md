@@ -40,13 +40,6 @@
 
 ![Snake animation](https://github.com/leonardoricardodev98/leonardoricardodev98/blob/output/github-contribution-grid-snake.svg)
 
-outputs: |
-  dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-  
-
-
----
-
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leonardoricardodev98&theme=tokyo-night)
 
 ---
