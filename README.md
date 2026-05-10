@@ -39,6 +39,9 @@
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leonardoricardodev98&theme=tokyonight)
 
+![Snake animation](https://github.com/leonardoricardodev98/leonardoricardodev98/blob/output/github-contribution-grid-snake.svg)
+
+
 ---
 
 
