@@ -47,6 +47,12 @@
 
 ## 📊 GitHub Stats
 
+## 💻 Linguagens mais usadas
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=leonardoricardodev98&theme=tokyonight)
 
 ![Snake animation](https://github.com/leonardoricardodev98/leonardoricardodev98/blob/output/github-contribution-grid-snake.svg)
