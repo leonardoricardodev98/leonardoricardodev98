@@ -43,12 +43,25 @@
   </a>
 </div>
 
-## 📊 GitHub Stats
+<h2 align="left"></h2>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=leonardoricardodev98&theme=tokyonight)
+###
 
-![Snake animation](https://github.com/leonardoricardodev98/leonardoricardodev98/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/leonardoricardodev98/leonardoricardodev98/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/leonardoricardodev98/leonardoricardodev98/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leonardoricardodev98&theme=tokyo-night)
+###
 
----
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+
