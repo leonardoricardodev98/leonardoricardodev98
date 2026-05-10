@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/leonardoricardodev98/leonardoricardodev98/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/leonardoricardodev98/leonardoricardodev98/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDR6cnEzZWhlaHQwbm9odWYxZTRzdmo0aGZyeTBxNHU4ZmxuN2VpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif"  />
 
 ###
