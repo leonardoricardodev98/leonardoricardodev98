@@ -31,9 +31,12 @@
 
 ## 📊 GitHub Stats
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=leonardoricardodev98&theme=tokyonight)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leonardoricardodev98&theme=tokyo-night)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=leonardoricardodev98&theme=tokyonight)
+![Snake animation](https://github.com/leonardoricardodev98/leonardoricardodev98/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
