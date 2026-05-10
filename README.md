@@ -37,6 +37,8 @@
 </p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leonardoricardodev98&theme=tokyo-night)
+
+![Profile Views](https://komarev.com/ghpvc/?username=leonardoricardodev98)
 ---
 
 ## 🚀 Philosophy
