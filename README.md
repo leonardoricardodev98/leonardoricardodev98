@@ -18,7 +18,7 @@
 
 ### Backend
 
-(https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
