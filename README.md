@@ -37,10 +37,7 @@
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonardoricardodev98&theme=tokyonight)
 
-
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardoricardodev98&repo=Estoque-api&theme=tokyonight)](https://github.com/leonardoricardodev98/Estoque-api)
-
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leonardoricardodev98&theme=tokyonight)
 
 ---
 
