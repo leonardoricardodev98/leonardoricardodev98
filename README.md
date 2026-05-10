@@ -39,6 +39,8 @@
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonardoricardodev98&theme=tokyonight)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardoricardodev98&repo=Estoque-api&theme=tokyonight)](https://github.com/leonardoricardodev98/Estoque-api)
+
 
 ---
 
