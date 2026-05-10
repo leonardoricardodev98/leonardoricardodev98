@@ -7,6 +7,8 @@
 
 ## 🛠️ Tecnologias usadas
 
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonardoricardodev98&theme=tokyonight)
+
 ### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
@@ -34,8 +36,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=leonardoricardodev98&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leonardoricardodev98&theme=tokyo-night)
-
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonardoricardodev98&theme=tokyonight)
 
 ![Snake animation](https://github.com/leonardoricardodev98/leonardoricardodev98/blob/output/github-contribution-grid-snake.svg)
 
