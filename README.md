@@ -1,5 +1,5 @@
 # Olá 👋, Meu nome é Leonardo, sou um Engenheiro de Software 🚀
-<h2 align="center">Ola 👋! Seja bem Vindo(a) ao meu GitHub</h2>
+<h1 align="center">Ola 👋! Seja bem Vindo(a) ao meu GitHub</h2>
 
 ###
 
