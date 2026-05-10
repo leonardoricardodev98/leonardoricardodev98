@@ -42,27 +42,12 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+## 📊 GitHub Stats
 
-<h2 align="left"></h2>
+![GitHub Streak](https://streak-stats.demolab.com/?user=leonardoricardodev98&theme=tokyonight)
 
-<h2 align="left"></h2>
+![Snake animation](https://github.com/leonardoricardodev98/leonardoricardodev98/blob/output/github-contribution-grid-snake.svg)
 
-###
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leonardoricardodev98&theme=tokyo-night)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/leonardoricardodev98/leonardoricardodev98/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/leonardoricardodev98/leonardoricardodev98/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
+---
