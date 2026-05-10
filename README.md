@@ -31,18 +31,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardoricardodev98&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoricardodev98&layout=compact&theme=tokyonight" />
-</p>
-
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leonardoricardodev98&theme=tokyo-night)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=leonardoricardodev98&theme=tokyonight)
+
 ---
 
-## 🚀 Philosophy
-
-> _"Código limpo, mente focada e objetivos grandes."
 
 
 ---
