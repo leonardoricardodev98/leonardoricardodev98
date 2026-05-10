@@ -35,7 +35,8 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leonardoricardodev98&theme=tokyo-night)
 
-![Snake animation](https://github.com/leonardoricardodev98/leonardoricardodev98/blob/output/github-contribution-grid-snake.svg)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonardoricardodev98&theme=tokyonight)
+
 
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardoricardodev98&repo=Estoque-api&theme=tokyonight)](https://github.com/leonardoricardodev98/Estoque-api)
