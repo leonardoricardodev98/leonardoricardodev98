@@ -64,6 +64,7 @@
   <a href="https://www.instagram.com/eoleonardoricardo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+</div>
 
  <div align="center">
 
@@ -72,7 +73,6 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoricardodev98&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00f5ff&text_color=ffffff"
 />
 
-</div>
 </div>
 
 
