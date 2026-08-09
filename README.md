@@ -65,10 +65,14 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 
-  <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoricardodev98&layout=donut&langs_count=8&theme=transparent&hide_border=true&title_color=00f5ff&text_color=ffffff"
-  height="200"
+ <div align="center">
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoricardodev98&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00f5ff&text_color=ffffff"
 />
+
+</div>
 </div>
 
 
