@@ -1,5 +1,28 @@
 <h1 align="center">Ola 👋! Seja bem Vindo(a) ao meu GitHub🚀</h1>
 
+</div>
+
+<!-- ========================================================= -->
+<!--                  SYSTEM INITIALIZATION                   -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0f172a,100:00f5ff&height=220&section=header&text=LEONARDO%20RICARDO&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20DEVELOPER&descAlignY=58&descSize=18&animation=twinkling"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=%3E+SYSTEM+ONLINE...;%3E+INITIALIZING+LEONARDO.DEV...;%3E+JAVA+%7C+SPRING+BOOT+%7C+POSTGRESQL;%3E+BACKEND+SYSTEMS+%7C+APIs+%7C+SOFTWARE+ENGINEERING;%3E+BUILDING+THE+FUTURE%2C+ONE+SYSTEM+AT+A+TIME."/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00f5ff?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00ff88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-BACKEND-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LOCATION-BRAZIL-009c3b?style=for-the-badge"/>
+
+</div>
+
 ###
 
 
@@ -47,28 +70,7 @@
 
 <img src="https://raw.githubusercontent.com/leonardoricardodev98/leonardoricardodev98/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-</div>
 
-<!-- ========================================================= -->
-<!--                  SYSTEM INITIALIZATION                   -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0f172a,100:00f5ff&height=220&section=header&text=LEONARDO%20RICARDO&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20DEVELOPER&descAlignY=58&descSize=18&animation=twinkling"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=%3E+SYSTEM+ONLINE...;%3E+INITIALIZING+LEONARDO.DEV...;%3E+JAVA+%7C+SPRING+BOOT+%7C+POSTGRESQL;%3E+BACKEND+SYSTEMS+%7C+APIs+%7C+SOFTWARE+ENGINEERING;%3E+BUILDING+THE+FUTURE%2C+ONE+SYSTEM+AT+A+TIME."/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00f5ff?style=for-the-badge&logo=probot&logoColor=white"/>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00ff88?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-BACKEND-7c3aed?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LOCATION-BRAZIL-009c3b?style=for-the-badge"/>
-
-</div>
 
 
 
