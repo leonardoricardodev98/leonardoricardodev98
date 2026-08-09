@@ -66,15 +66,18 @@
   </a>
 </div>
 
- <!-- ========================================================= -->
+<!-- ========================================================= -->
 <!--                    LANGUAGE ANALYTICS                    -->
 <!-- ========================================================= -->
 
-<h2 align="center">📊 LANGUAGE ANALYTICS</h2>
+<h2 align="center">📊 MOST USED LANGUAGES</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoricardodev98&layout=compact&theme=dark&hide_border=true" />
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=leonardoricardodev98&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=00F5FF&text_color=FFFFFF"
+  height="180"
+/>
 
 </div>
 
