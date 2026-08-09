@@ -47,8 +47,6 @@
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=leonardoricardodev98&theme=tokyonight)
-
 ![Snake animation](https://github.com/leonardoricardodev98/leonardoricardodev98/blob/output/github-contribution-grid-snake.svg)
 
 
