@@ -74,10 +74,7 @@
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoricardodev98&layout=donut&langs_count=8&hide_border=true&bg_color=00000000&title_color=00F5FF&text_color=FFFFFF&icon_color=7C3AED"
-  height="200"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoricardodev98&layout=compact&theme=dark&hide_border=true" />
 
 </div>
 
