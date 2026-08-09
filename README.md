@@ -66,11 +66,17 @@
   </a>
 </div>
 
- <div align="center">
+ <!-- ========================================================= -->
+<!--                    LANGUAGE ANALYTICS                    -->
+<!-- ========================================================= -->
+
+<h2 align="center">📊 LANGUAGE ANALYTICS</h2>
+
+<div align="center">
 
 <img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoricardodev98&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00f5ff&text_color=ffffff"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoricardodev98&layout=donut&langs_count=8&hide_border=true&bg_color=00000000&title_color=00F5FF&text_color=FFFFFF&icon_color=7C3AED"
+  height="200"
 />
 
 </div>
